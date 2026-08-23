@@ -1,80 +1,80 @@
 {
-    "name": "@sebastienrousseau/open-sans",
-    "version": "0.0.2",
-    "description": "Open Sans is a humanist sans serif typeface designed by Steve Matteson.",
-    "keywords": [
-      "font family",
-      "font",
-      "google fonts",
-      "open-sans",
-      "sans serif",
-      "typeface",
-      "typography"
-    ],
-    "style": "open-sans.css",
-    "main": "open-sans.css",
-    "filename": "open-sans.css",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/sebastienrousseau/open-sans.git"
-    },
-    "author": "Sebastien Rousseau",
-    "license": "Apache-2.0",
-    "license_URI": "http://www.apache.org/licenses/LICENSE-2.0",
-    "bugs": {
-      "url": "https://github.com/sebastienrousseau/open-sans/issues"
-    },
-    "homepage": "https://open-sans.com",
-    "source": "git",
-    "target": "git://github.com/sebastienrousseau/open-sans.git",
-    "fileMap": [
-      {
-        "basePath": "fonts",
-        "files": [
-          "OpenSans-Bold-webfont.eot",
-          "OpenSans-Bold-webfont.svg",
-          "OpenSans-Bold-webfont.ttf",
-          "OpenSans-Bold-webfont.woff",
-          "OpenSans-BoldItalic-webfont.eot",
-          "OpenSans-BoldItalic-webfont.svg",
-          "OpenSans-BoldItalic-webfont.ttf",
-          "OpenSans-BoldItalic-webfont.woff",
-          "OpenSans-ExtraBold-webfont.eot",
-          "OpenSans-ExtraBold-webfont.svg",
-          "OpenSans-ExtraBold-webfont.ttf",
-          "OpenSans-ExtraBold-webfont.woff",
-          "OpenSans-ExtraBoldItalic-webfont.eot",
-          "OpenSans-ExtraBoldItalic-webfont.svg",
-          "OpenSans-ExtraBoldItalic-webfont.ttf",
-          "OpenSans-ExtraBoldItalic-webfont.woff",
-          "OpenSans-Italic-webfont.eot",
-          "OpenSans-Italic-webfont.svg",
-          "OpenSans-Italic-webfont.ttf",
-          "OpenSans-Italic-webfont.woff",
-          "OpenSans-Light-webfont.eot",
-          "OpenSans-Light-webfont.svg",
-          "OpenSans-Light-webfont.ttf",
-          "OpenSans-Light-webfont.woff",
-          "OpenSans-LightItalic-webfont.eot",
-          "OpenSans-LightItalic-webfont.svg",
-          "OpenSans-LightItalic-webfont.ttf",
-          "OpenSans-LightItalic-webfont.woff",
-          "OpenSans-Regular-webfont.eot",
-          "OpenSans-Regular-webfont.svg",
-          "OpenSans-Regular-webfont.ttf",
-          "OpenSans-Regular-webfont.woff",
-          "OpenSans-Semibold-webfont.eot",
-          "OpenSans-Semibold-webfont.svg",
-          "OpenSans-Semibold-webfont.ttf",
-          "OpenSans-Semibold-webfont.woff",
-          "OpenSans-SemiboldItalic-webfont.eot",
-          "OpenSans-SemiboldItalic-webfont.svg",
-          "OpenSans-SemiboldItalic-webfont.ttf",
-          "OpenSans-SemiboldItalic-webfont.woff"
-        ]
-      }
-    ],
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "@sebastienrousseau/open-sans",
+  "version": "0.0.2",
+  "description": "Open Sans is a humanist sans serif typeface designed by Steve Matteson.",
+  "keywords": [
+    "font family",
+    "font",
+    "google fonts",
+    "open-sans",
+    "sans serif",
+    "typeface",
+    "typography"
+  ],
+  "style": "open-sans.css",
+  "main": "open-sans.css",
+  "filename": "open-sans.css",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sebastienrousseau/open-sans.git"
+  },
+  "author": "Sebastien Rousseau",
+  "license": "Apache-2.0 OR MIT",
+  "license_URI": "http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.com/sebastienrousseau/open-sans/issues"
+  },
+  "homepage": "https://open-sans.com",
+  "source": "git",
+  "target": "git://github.com/sebastienrousseau/open-sans.git",
+  "fileMap": [
+    {
+      "basePath": "fonts",
+      "files": [
+        "OpenSans-Bold-webfont.eot",
+        "OpenSans-Bold-webfont.svg",
+        "OpenSans-Bold-webfont.ttf",
+        "OpenSans-Bold-webfont.woff",
+        "OpenSans-BoldItalic-webfont.eot",
+        "OpenSans-BoldItalic-webfont.svg",
+        "OpenSans-BoldItalic-webfont.ttf",
+        "OpenSans-BoldItalic-webfont.woff",
+        "OpenSans-ExtraBold-webfont.eot",
+        "OpenSans-ExtraBold-webfont.svg",
+        "OpenSans-ExtraBold-webfont.ttf",
+        "OpenSans-ExtraBold-webfont.woff",
+        "OpenSans-ExtraBoldItalic-webfont.eot",
+        "OpenSans-ExtraBoldItalic-webfont.svg",
+        "OpenSans-ExtraBoldItalic-webfont.ttf",
+        "OpenSans-ExtraBoldItalic-webfont.woff",
+        "OpenSans-Italic-webfont.eot",
+        "OpenSans-Italic-webfont.svg",
+        "OpenSans-Italic-webfont.ttf",
+        "OpenSans-Italic-webfont.woff",
+        "OpenSans-Light-webfont.eot",
+        "OpenSans-Light-webfont.svg",
+        "OpenSans-Light-webfont.ttf",
+        "OpenSans-Light-webfont.woff",
+        "OpenSans-LightItalic-webfont.eot",
+        "OpenSans-LightItalic-webfont.svg",
+        "OpenSans-LightItalic-webfont.ttf",
+        "OpenSans-LightItalic-webfont.woff",
+        "OpenSans-Regular-webfont.eot",
+        "OpenSans-Regular-webfont.svg",
+        "OpenSans-Regular-webfont.ttf",
+        "OpenSans-Regular-webfont.woff",
+        "OpenSans-Semibold-webfont.eot",
+        "OpenSans-Semibold-webfont.svg",
+        "OpenSans-Semibold-webfont.ttf",
+        "OpenSans-Semibold-webfont.woff",
+        "OpenSans-SemiboldItalic-webfont.eot",
+        "OpenSans-SemiboldItalic-webfont.svg",
+        "OpenSans-SemiboldItalic-webfont.ttf",
+        "OpenSans-SemiboldItalic-webfont.woff"
+      ]
     }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
+}

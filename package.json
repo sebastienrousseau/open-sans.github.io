@@ -1,6 +1,6 @@
 {
   "name": "@sebastienrousseau/open-sans",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Open Sans is a humanist sans serif typeface designed by Steve Matteson.",
   "keywords": [
     "font family",
@@ -14,19 +14,27 @@
   "style": "open-sans.css",
   "main": "open-sans.css",
   "filename": "open-sans.css",
+  "files": [
+    "open-sans.css",
+    "css/",
+    "fonts/",
+    "LICENSE",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sebastienrousseau/open-sans.git"
+    "url": "git+https://github.com/sebastienrousseau/open-sans.github.io.git"
   },
   "author": "Sebastien Rousseau",
   "license": "Apache-2.0 OR MIT",
   "license_URI": "http://www.apache.org/licenses/LICENSE-2.0",
   "bugs": {
-    "url": "https://github.com/sebastienrousseau/open-sans/issues"
+    "url": "https://github.com/sebastienrousseau/open-sans.github.io/issues"
   },
   "homepage": "https://open-sans.com",
   "source": "git",
-  "target": "git://github.com/sebastienrousseau/open-sans.git",
+  "target": "git+https://github.com/sebastienrousseau/open-sans.github.io.git",
   "fileMap": [
     {
       "basePath": "fonts",
@@ -75,6 +83,6 @@
     }
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node scripts/check-fonts.mjs"
   }
 }

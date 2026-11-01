@@ -1,0 +1,16 @@
+{
+  "name": "Open Sans Typeface Specimen",
+  "short_name": "Open Sans",
+  "description": "Open Sans is an open-source humanist sans-serif typeface designed by Steve Matteson for Google Fonts, featuring 10 weights and upright and italic styles.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0056b3",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

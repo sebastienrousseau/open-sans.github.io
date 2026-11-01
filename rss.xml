@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Sans Typeface Specimen</title>
+    <link>https://open-sans.com/</link>
+    <description>Open Sans is an open-source humanist sans-serif typeface designed by Steve Matteson for Google Fonts, featuring 10 weights and upright and italic styles.</description>
+    <language>en</language>
+    <atom:link href="https://open-sans.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Sans Typeface Specimen (Latin)</title>
+      <link>https://open-sans.com/</link>
+      <guid>https://open-sans.com/</guid>
+      <description>Explore all 10 weights and styles of the Open Sans humanist sans-serif typeface by Steve Matteson.</description>
+    </item>
+    <item>
+      <title>Open Sans Hebrew Typeface Specimen</title>
+      <link>https://open-sans.com/hebrew.html</link>
+      <guid>https://open-sans.com/hebrew.html</guid>
+      <description>Explore Open Sans Hebrew designed by Yanek Iontef as an extension of Steve Matteson's Open Sans typeface.</description>
+    </item>
+  </channel>
+</rss>
